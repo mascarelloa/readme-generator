@@ -6,7 +6,7 @@
   ## Description 
   This is a program that generates a quality README file for GitHub projects. It was build using Node.js. 
 
-  View the live application [here](https://github.com/mascarelloa/readme-generator).
+  View the live demo [here](https://drive.google.com/file/d/17Y8mmbSUN-OvyoUIgFjNjWgXrOZSZaxA/view).
 
   ## Table of Contents
   * [Installation](#Installation)
